@@ -1,4 +1,4 @@
-# 
+# advanced Polymarket Trading Bot | real-time-market-analysis + prediction-market-scanning is the best Polymarket trading-bot, featuring real-time-market-analysis and
 
 
 
